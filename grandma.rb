@@ -3,6 +3,8 @@ def speak_to_grandma(phrase)
     'I LOVE YOU TOO PUMPKIN!'
   elsif phrase == "Hi Nana, how are you?"
     'HUH?! SPEAK UP, SONNY!'
-  els
+  elsif phrase == "Hi Nana, how are you?"
+    'HUH? SPEAK UP, SONNY!'
+  else
 end
 end
